@@ -1,1 +1,2 @@
 # Machine-Learning-projects
+The "Delhi House Price Prediction" project focuses on predicting the prices of houses in various localities of Delhi. The primary objective is to develop a predictive model that can accurately estimate the prices of houses based on several key features present in the dataset. The dataset, obtained from Kaggle, contains information on factors such as house area, number of bedrooms, locality, and more. By analyzing these features, the project aims to provide valuable insights for potential buyers and sellers in the real estate market.
